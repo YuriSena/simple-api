@@ -1,9 +1,9 @@
-CRUD para frases
+CRUD for phrases
 
-POST /frases - Criar frases novas
-GET /frases - Listar todas as frases
-GET /frase/123 - Listar todas as informações de uma frase
-PUT /frase/123 - Atualizar informações de uma frase
-DELETE /frase/123 - Deletar uma frase
+POST /frases - Create new phrases
+GET /frases - List all phrases
+GET /frase/123 - List information of a phrase
+PUT /frase/123 - Update information of a phrase
+DELETE /frase/123 - Delete a phrase
 
-GET /frase/aleatoria - listar uma frase aleatoria do banco
+GET /frase/aleatoria - List a random phrase of the database
